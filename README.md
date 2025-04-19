@@ -18,3 +18,9 @@ http://127.0.0.1:5000
 ```
 And you're all set! Make Kirby happy for us!
 
+
+#Instructions for the Frontend (literally every code except app.py)
+
+To access the frontpage copy and paste this url into your browser: http://localhost:"your local port number here"/coderush/homepage1.html.
+
+You can then proceed to select either the login or signup option.
